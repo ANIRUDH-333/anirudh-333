@@ -18,6 +18,13 @@ I build AI systems that ship to production. Currently working on secure microser
 - 🏆 **Google Agentic AI Day Finalist** — Designed autonomous agents under competition constraints
 - 📄 **Published Researcher** — [4 publications](https://scholar.google.com/citations?user=6il-Qi8AAAAJ&hl=en) including work on deep learning for satellite imagery and DNA sequence classification
 
+## Open Source Contributions
+
+- [kubevela/kubevela](https://github.com/kubevela/kubevela/pull/6944) — Fixed security vulnerability by migrating YAML dependency *(7.6k ⭐ CNCF project)*
+- [guacsec/guac](https://github.com/guacsec/guac/pull/2307) — Bug fix for S3 collector polling *(1.4k ⭐ supply chain security)*
+- [decentralized-identity/dwn-sdk-js](https://github.com/decentralized-identity/dwn-sdk-js/pull/815) — Contributed to Web5 decentralized web nodes
+
+
 ## Tech Stack
 
 **AI/ML:** LangChain · OpenAI API · PyTorch · Computer Vision  
